@@ -6,7 +6,7 @@ import Experience from './component/Experience'
 import Hero from './component/Hero'
 import Navbar from './component/Navbar'
 import Project from './component/Project'
-import Technologies from './component/technologies'
+import Technologies from './component/Technologies'
 
 function App() {
 

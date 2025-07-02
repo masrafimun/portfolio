@@ -71,6 +71,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind CSS"],
+    link : "https://portfolio-v3iu.vercel.app"
   },
   {
     title: "Chat Application",
